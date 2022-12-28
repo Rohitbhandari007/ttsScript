@@ -1,6 +1,7 @@
 # ttsScript
 
 Requirements :
+- Internet Connection
 - Python3.9
 - Pip
 
